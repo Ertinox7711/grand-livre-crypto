@@ -1,0 +1,424 @@
+{
+ "chapitres": {
+  "00-avant-propos": {
+   "h": "ac92649ba9ce8095",
+   "titre": "Avant-propos : comment lire ce livre",
+   "mots": 364,
+   "sections": [
+    "Les encadrés",
+    "Un livre vivant"
+   ]
+  },
+  "01-argent": {
+   "h": "2c847447a39bf5ff",
+   "titre": "L'argent, la confiance et pourquoi la crypto existe",
+   "mots": 756,
+   "sections": [
+    "À quoi sert l'argent",
+    "L'argent d'aujourd'hui repose sur la confiance",
+    "Le rôle des intermédiaires",
+    "La crise de 2008 et la naissance de Bitcoin",
+    "Ce que la crypto change, et ce qu'elle ne change pas"
+   ]
+  },
+  "02-blockchain": {
+   "h": "2fd8b30176bb046a",
+   "titre": "La blockchain expliquée simplement",
+   "mots": 916,
+   "sections": [
+    "Le grand cahier partagé",
+    "Pourquoi on ne peut pas tricher : l'empreinte",
+    "Qui écrit les nouvelles pages : le consensus",
+    "Les propriétés qui comptent",
+    "Pseudonyme, pas anonyme"
+   ]
+  },
+  "03-bitcoin": {
+   "h": "3138a04dd4519bd8",
+   "titre": "Bitcoin, la première cryptomonnaie",
+   "mots": 615,
+   "sections": [
+    "Naissance",
+    "Les règles de Bitcoin",
+    "Ce que Bitcoin fait bien, et ce qu'il ne fait pas",
+    "Pourquoi le prix du bitcoin bouge autant"
+   ]
+  },
+  "04-ethereum": {
+   "h": "7a1d26ef84946360",
+   "titre": "Ethereum et les programmes sur la blockchain",
+   "mots": 745,
+   "sections": [
+    "L'idée de Vitalik Buterin",
+    "Le smart contract, un distributeur automatique",
+    "Ce que les programmes ont rendu possible",
+    "Les frais de gaz",
+    "Le passage à la preuve d'enjeu",
+    "Les blockchains concurrentes"
+   ]
+  },
+  "05-solana": {
+   "h": "166a4363f2ac0d56",
+   "titre": "Solana, la blockchain des memecoins",
+   "mots": 854,
+   "sections": [
+    "D'où vient Solana",
+    "Le SOL, monnaie du réseau",
+    "Pourquoi Solana est si rapide",
+    "Une histoire mouvementée",
+    "Les grands noms de l'écosystème Solana"
+   ]
+  },
+  "06-solana-dedans": {
+   "h": "aa29d135c9106139",
+   "titre": "Comment Solana marche de l'intérieur : adresses, jetons, explorateurs",
+   "mots": 956,
+   "sections": [
+    "Les adresses",
+    "Tout est un compte",
+    "Les deux autorisations à vérifier sur tout jeton",
+    "La décimale, l'offre et la capitalisation",
+    "Lire la blockchain soi-même : les explorateurs",
+    "Pourquoi une transaction peut échouer"
+   ]
+  },
+  "07-portefeuille": {
+   "h": "97e11282e377eecf",
+   "titre": "Le portefeuille : la clé de ton argent",
+   "mots": 819,
+   "sections": [
+    "Adresse publique et clé privée",
+    "La phrase de récupération (seed phrase)",
+    "Les types de portefeuilles",
+    "« Pas tes clés, pas tes cryptos »",
+    "La bonne organisation : plusieurs portefeuilles",
+    "Signer une opération : ce que tu acceptes vraiment"
+   ]
+  },
+  "08-securite": {
+   "h": "6ae26f0d2e7c678f",
+   "titre": "La sécurité et les arnaques",
+   "mots": 757,
+   "sections": [
+    "Les arnaques les plus courantes",
+    "Les réflexes de sécurité",
+    "Les risques qui ne sont pas des arnaques"
+   ]
+  },
+  "09-plateformes": {
+   "h": "06608ffb7127800c",
+   "titre": "Acheter de la crypto : plateformes, stablecoins et passerelles",
+   "mots": 870,
+   "sections": [
+    "Les plateformes centralisées (CEX)",
+    "Les stablecoins",
+    "Les plateformes décentralisées (DEX)",
+    "Les agrégateurs",
+    "Les terminaux de trading",
+    "Le parcours complet de l'argent"
+   ]
+  },
+  "10-defi": {
+   "h": "01d67a834572d715",
+   "titre": "La DeFi : la finance sans banque",
+   "mots": 1151,
+   "sections": [
+    "Finance classique contre DeFi",
+    "L'échange automatique : la pool de liquidité",
+    "Comment la pool fixe le prix : l'AMM",
+    "La liquidité et le slippage",
+    "Les fournisseurs de liquidité",
+    "Les frais d'un échange",
+    "Les autres services de la DeFi"
+   ]
+  },
+  "11-valeur": {
+   "h": "c05cb39ba758a175",
+   "titre": "La valeur d'un jeton : capitalisation, offre, volume et cycles",
+   "mots": 900,
+   "sections": [
+    "Le prix d'un jeton ne veut rien dire seul",
+    "La capitalisation (market cap)",
+    "L'offre : circulante, totale, maximale",
+    "Le volume",
+    "La liquidité",
+    "Les détenteurs (holders)",
+    "Les cycles du marché"
+   ]
+  },
+  "12-airdrops": {
+   "h": "e12199de626e53ab",
+   "titre": "Les airdrops : des jetons distribués gratuitement",
+   "mots": 772,
+   "sections": [
+    "Pourquoi un projet donne des jetons gratuitement",
+    "Les airdrops qui ont marqué l'histoire",
+    "Comment on est sélectionné : la chasse aux airdrops",
+    "Ce qui se passe le jour J",
+    "Le danger : les faux airdrops",
+    "Airdrop et memecoins"
+   ]
+  },
+  "13-memecoin": {
+   "h": "228e64ec49276511",
+   "titre": "Qu'est-ce qu'un memecoin ?",
+   "mots": 841,
+   "sections": [
+    "Un jeu d'attention, pas un investissement classique",
+    "Une courte histoire des memecoins",
+    "Les deux mondes du memecoin",
+    "Les chiffres à avoir en tête"
+   ]
+  },
+  "14-vie-coin": {
+   "h": "203beee1db689081",
+   "titre": "La vie d'un coin pump.fun, de la naissance à la migration",
+   "mots": 1083,
+   "sections": [
+    "Étape 1 : la création",
+    "Étape 2 : la courbe de liaison",
+    "Étape 3 : la migration",
+    "Étape 4 : la vie après la migration",
+    "Les frais sur pump.fun"
+   ]
+  },
+  "15-acteurs": {
+   "h": "77f393f329e3aab0",
+   "titre": "Les acteurs autour d'un memecoin",
+   "mots": 1116,
+   "sections": [
+    "Le créateur (dev)",
+    "Les snipers",
+    "Les bundlers",
+    "Les initiés (insiders)",
+    "Les portefeuilles neufs (fresh wallets)",
+    "Les influenceurs (KOL) et les « callers »",
+    "La « smart money » et les copieurs",
+    "Les streamers",
+    "Les acheteurs ordinaires (retail)",
+    "Les robots de volume",
+    "Qui gagne contre qui ?"
+   ]
+  },
+  "16-confiance": {
+   "h": "8757b62930cf1000",
+   "titre": "La confiance vue de l'extérieur : comment juger un coin",
+   "mots": 1461,
+   "sections": [
+    "Famille 1 : le récit (le narratif)",
+    "Famille 2 : les réseaux sociaux et les liens",
+    "Famille 3 : le créateur",
+    "Famille 4 : la répartition des détenteurs",
+    "Famille 5 : les acheteurs de la première minute",
+    "Famille 6 : qui achète (portefeuilles connus)",
+    "Famille 7 : DexScreener (Dex payé, boosts, CTO)",
+    "Famille 8 : le contexte du marché",
+    "La grille complète, à lire en 10 secondes"
+   ]
+  },
+  "17-pourquoi-monte": {
+   "h": "15101a1522bc1d56",
+   "titre": "Pourquoi un memecoin monte",
+   "mots": 977,
+   "sections": [
+    "La mécanique : l'achat net",
+    "La boucle qui s'auto-alimente",
+    "Les étincelles qui font partir un coin",
+    "Ce que fait un trader qui gagne pendant la montée"
+   ]
+  },
+  "18-pourquoi-tient": {
+   "h": "dea08f354b3e398e",
+   "titre": "Pourquoi un memecoin tient, ou pourquoi il retombe",
+   "mots": 1031,
+   "sections": [
+    "Pourquoi presque tous retombent",
+    "Les deux jeux : la rafale et le lent",
+    "Ce qui fait tenir un coin",
+    "Lire qu'un coin est en train de retomber"
+   ]
+  },
+  "19-danger": {
+   "h": "3f952d406b27b3e7",
+   "titre": "Les signaux de danger",
+   "mots": 767,
+   "sections": [
+    "Le rug pull",
+    "Les signaux qui doivent alerter",
+    "Les pièges qui ne sont pas des arnaques"
+   ]
+  },
+  "20-nos-donnees": {
+   "h": "7f1406cff4a26db7",
+   "titre": "Ce que nos propres données ont montré",
+   "mots": 1003,
+   "sections": [
+    "Comment lire ces chiffres",
+    "1. L'univers des coins",
+    "2. Ce qui annonce une migration",
+    "3. Ce qui ne marche pas pour gagner de l'argent",
+    "4. Le vrai problème : les frais",
+    "5. Les sorties",
+    "6. Ce qui marche chez un humain"
+   ]
+  },
+  "21-perps": {
+   "h": "4b3093da77930581",
+   "titre": "Les perps et Hyperliquid : parier sur la hausse ou sur la baisse",
+   "mots": 2309,
+   "sections": [
+    "Un contrat perpétuel, c'est quoi",
+    "Le levier : jouer plus gros que sa mise",
+    "La liquidation : quand la plateforme ferme la position",
+    "Le funding : le loyer qu'on paie pour rester",
+    "Le prix de marque, le carnet d'ordres et les frais",
+    "Hyperliquid, la plateforme",
+    "Les autres plateformes de perps",
+    "Les risques, sans détour"
+   ]
+  },
+  "90-lexique": {
+   "h": "5718c762eb66132c",
+   "titre": "Lexique de A à Z",
+   "mots": 1650,
+   "sections": []
+  },
+  "91-questions": {
+   "h": "c47df119a6bd1f6b",
+   "titre": "Tes questions",
+   "mots": 140,
+   "sections": []
+  }
+ },
+ "questions": [
+  "C'est quoi la DeFi ?",
+  "C'est quoi une blockchain, c'est quoi Solana ?",
+  "Qu'est-ce qui donne confiance à un memecoin, vu de l'extérieur ?",
+  "Pourquoi un memecoin monte ?",
+  "Pourquoi un memecoin tient (le hold), ou retombe ?",
+  "C'est quoi un airdrop ?",
+  "Tu as parlé d'Hyperliquid et des autres plateformes ?"
+ ],
+ "lexique": [
+  "Adresse",
+  "Agrégateur",
+  "Airdrop",
+  "Altcoin",
+  "AMM",
+  "Auto-garde",
+  "Bear market",
+  "Blockchain",
+  "Bloc",
+  "Bonding curve",
+  "Boost",
+  "Bull market",
+  "Bundle, bundler",
+  "Burner wallet",
+  "CA",
+  "Call, caller",
+  "Capitalisation (MC)",
+  "Carnet d'ordres",
+  "CEX",
+  "Clé privée",
+  "Consensus",
+  "Contrat perpétuel (perp)",
+  "Copy trading",
+  "Courbe (progression de la)",
+  "Cryptomonnaie",
+  "CTO",
+  "DeFi",
+  "Dérivé",
+  "Dev",
+  "Dev buy",
+  "DEX",
+  "Dex payé",
+  "DexScreener",
+  "Diamond hands / paper hands",
+  "Double authentification (2FA)",
+  "Drainer",
+  "Dump",
+  "Effet de levier",
+  "Empreinte (hash)",
+  "Explorateur",
+  "FDV",
+  "FOMO",
+  "Frais de gaz",
+  "Frais de priorité",
+  "Flux net",
+  "Fresh wallet",
+  "Funding",
+  "Halving",
+  "HIP-3",
+  "HLP",
+  "Holders",
+  "Honeypot",
+  "HYPE",
+  "Hyperliquid",
+  "Insider",
+  "Jeton (token)",
+  "Jito",
+  "KOL",
+  "KYC",
+  "Lamport",
+  "Layer 2",
+  "Liquidation",
+  "Liquidité",
+  "Liquidité brûlée",
+  "Long",
+  "LP",
+  "Marge",
+  "Marge de maintien",
+  "Mème",
+  "Memecoin",
+  "Meneur",
+  "Méta",
+  "Migration",
+  "Minage",
+  "Mint authority",
+  "Freeze authority",
+  "Monnaie fiduciaire",
+  "Narratif",
+  "NFT",
+  "Offre maximale",
+  "Oracle",
+  "Ordre limite / ordre au marché",
+  "Phishing",
+  "Phrase de récupération",
+  "Pool de liquidité",
+  "Portefeuille (wallet)",
+  "Portefeuille matériel",
+  "Preuve d'enjeu (PoS)",
+  "Preuve d'historique (PoH)",
+  "Preuve de travail (PoW)",
+  "Prix de liquidation",
+  "Prix de marque",
+  "Programme (smart contract)",
+  "Programme de points",
+  "Pump and dump",
+  "PumpSwap",
+  "Raid",
+  "Rent",
+  "Rétention",
+  "Retail",
+  "Rug pull",
+  "Short",
+  "Signature",
+  "Slippage",
+  "Slot",
+  "Smart money",
+  "Sniper",
+  "SOL",
+  "Spot (au comptant)",
+  "Stablecoin",
+  "Staking",
+  "Sybil",
+  "Terminal de trading",
+  "Ticker",
+  "Top 10",
+  "Trenches",
+  "Validateur",
+  "Vague",
+  "Vesting",
+  "Volume"
+ ]
+}
